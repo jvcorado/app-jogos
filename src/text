@@ -1,0 +1,5 @@
+ <p>{item.games.map((item,index)=>(
+              <div>
+                <p>{item.name}</p>
+              </div>
+            ))}</p>
